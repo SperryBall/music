@@ -9,4 +9,4 @@ The .md file extension represents the MarkDown syntax. It's really easy. If you'
 Since we both know what this repository does, and not many other people are going to be viewing it, I figured I'd find cool stuff for you to try out or play around with and put it here. Its up to you, you dont have to. I just figured I would put some resources for cool stuff to make it easier.
 
 ### Resources
-* [Materialize]("http://materializecss.com/"): This is a library by Google that makes styling your web page a lot easier. All of those changes that made your /music site blue were done with Materialize. All I did was add the class 'blue' to the back button and the <nav> element.
+* [Materialize](http://materializecss.com/ "Materialize"): This is a library by Google that makes styling your web page a lot easier. All of those changes that made your /music site blue were done with Materialize. All I did was add the class 'blue' to the back button and the <nav> element.
