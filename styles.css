@@ -1,4 +1,12 @@
-* {
+/* Anything wrapped in the asterisk slash means its a comment */
+
+
+/* Instead of centering everything on your page, I changed it to
+	only center the html element with the ID of "header". That element just so
+	happens to be the header tag that says "Playlists".
+ */
+
+#header {
 	text-align:center;
 }
 
