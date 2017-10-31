@@ -17,15 +17,15 @@ Since we both know what this repository does, and not many other people are goin
 
 ```html
 	<div class="frame_container row center">
-		<div class="iframe **col s6**">
+		<div class="iframe col s6">
 			<h3 for="hehe-iframe">HeHe</h3>
 			<iframe id="hehe-iframe" src="https://open.spotify.com/user/yakut.eksin5255/playlist/2tv54dYJ2kLLyTlGce0E1v" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 		</div>
-		<div class="iframe **col s6**">
+		<div class="iframe `col s6`">
 			<h3 for="fire-iframe">Fire</h3>
 			<iframe id="Fire-iframe" src="http://spoti.fi/2ziSg6l" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 		</div>
-		<div class="iframe **col s12**">
+		<div class="iframe col s12">
 			<h3 for="trap-iframe">Trap</h3>
 			<iframe id="trap-iframe" src="https://open.spotify.com/user/coleman_thet03/playlist/41a5I8Ql1sTp5Di7gWy2qo" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 		</div>
