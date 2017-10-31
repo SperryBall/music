@@ -15,19 +15,18 @@ Since we both know what this repository does, and not many other people are goin
 ### Examples
 * The Materialize Grid lets you give an element a class name of "col" (which stands for column). A col needs a width so it knows how far to stretch. The grid uses a scale of 12, so if you have two columns with a size of 6, they will be next to each other (in the same row) and they will each take up half (6 is half of 12) of the screen. So if you wanted a row of three items, you would make the columns have a size of 4 (4 width * 3 columns = 12 total width). Here's an example, I used the grid to make your spotify playlists take up the same amount of room, and they're next to each other. 
 
-```html
 	<div class="frame_container row center">
-		<div class="iframe ```col s6```">
+		<div class="iframe **col s6**">
 			<h3 for="hehe-iframe">HeHe</h3>
 			<iframe id="hehe-iframe" src="https://open.spotify.com/user/yakut.eksin5255/playlist/2tv54dYJ2kLLyTlGce0E1v" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 		</div>
-		<div class="iframe ```col s6```">
+		<div class="iframe **col s6**">
 			<h3 for="fire-iframe">Fire</h3>
 			<iframe id="Fire-iframe" src="http://spoti.fi/2ziSg6l" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 		</div>
-		<div class="iframe ```col s12```">
+		<div class="iframe **col s12**">
 			<h3 for="trap-iframe">Trap</h3>
 			<iframe id="trap-iframe" src="https://open.spotify.com/user/coleman_thet03/playlist/41a5I8Ql1sTp5Di7gWy2qo" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 		</div>
 	</div>
-```
+
